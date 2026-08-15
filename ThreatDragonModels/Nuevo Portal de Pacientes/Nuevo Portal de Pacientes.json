@@ -12,7 +12,7 @@
     "contributors": [],
     "diagrams": [
       {
-        "id": 0,
+        "id": 1,
         "title": "New STRIDE diagram",
         "diagramType": "STRIDE",
         "placeholder": "New STRIDE diagram description",
@@ -21,7 +21,7 @@
         "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "",
     "threatTop": 0
   }
